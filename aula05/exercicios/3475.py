@@ -4,10 +4,10 @@
 def fala_numero(numero):
     extenso = ['zero', 'um', 'dois', 'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove']
 
-    if n.isdecimal():
-        print(extenso[int(n)])
+    if numero.isdecimal():
+        print(extenso[int(numero)])
     else:
-        print(extenso.index(n))
+        print(extenso.index(numero))
 
 n = input()
 fala_numero(n)
