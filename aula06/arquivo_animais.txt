@@ -1,0 +1,5 @@
+cachorro,TERRESTRE
+peixe,aquatico
+baleia,aquatico
+leao,terrestre
+gato,terrestre

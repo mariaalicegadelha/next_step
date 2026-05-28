@@ -1,0 +1,3 @@
+Este arquivo foi criado no dia 27/05 
+durante a aula do curso NExt 2026
+teste para caractéres especiais @@
